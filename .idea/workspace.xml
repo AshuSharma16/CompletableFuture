@@ -6,8 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="3bc51070-758e-4465-a0e3-cfa020f7ca7c" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../../All Software/spring-tool-suite-4-4.17.2.RELEASE-e4.26.0-win32.win32.x86_64.self-extracting/contents/sts-4.17.2.RELEASE/plugins/org.eclipse.wildwebdeveloper_1.0.1.202211171559/node_modules/iconv-lite/.idea/iconv-lite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/completable/future/handson/service/SupplyAsyncService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/completable/future/handson/test/SupplySyncTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,15 +38,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/IntelliJ-hands-on/CompletableFuture&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;E:/IntelliJ-hands-on/CompletableFuture/src/main/java/org/example/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "E:/java8-with-intellij/CompletableFuture",
+    "onboarding.tips.debug.path": "E:/IntelliJ-hands-on/CompletableFuture/src/main/java/org/example/Main.java"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\IntelliJ-hands-on\CompletableFuture" />
