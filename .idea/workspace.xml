@@ -5,12 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3bc51070-758e-4465-a0e3-cfa020f7ca7c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../All Software/spring-tool-suite-4-4.17.2.RELEASE-e4.26.0-win32.win32.x86_64.self-extracting/contents/sts-4.17.2.RELEASE/plugins/org.eclipse.wildwebdeveloper_1.0.1.202211171559/node_modules/iconv-lite/.idea/iconv-lite.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/completable/future/handson/service/SupplyAsyncService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/completable/future/handson/test/SupplySyncTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/completable/future/sceneriobased/handson/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/completable/future/sceneriobased/handson/beans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/completable/future/sceneriobased/handson/combiningFuture/main/CombingMoreThanTwoInDependentFuture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/completable/future/sceneriobased/handson/combiningFuture/main/CombingMoreThanTwoInDependentFutureWithOutWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/completable/future/sceneriobased/handson/combiningFuture/main/CombingTwoDependentFuture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/completable/future/sceneriobased/handson/combiningFuture/main/CombingTwoInDependentFuture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/completable/future/sceneriobased/handson/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/project/completable/future/handson/beans/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/project/completable/future/handson/main/SendOrPrintEmailsOfAllNewJoinerWhosTrainingIsPending.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/project/completable/future/handson/service/EmployeeService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,23 +50,33 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "E:/java8-with-intellij/CompletableFuture",
+    "last_opened_file_path": "E:/upgrade-skills/completable-future-concept/CompletableFuture/src/main/java/com/project/completable/future/handson",
     "onboarding.tips.debug.path": "E:/IntelliJ-hands-on/CompletableFuture/src/main/java/org/example/Main.java"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\upgrade-skills\completable-future-concept\CompletableFuture\src\main\java\com\project\completable\future\handson" />
       <recent name="E:\IntelliJ-hands-on\CompletableFuture" />
       <recent name="E:\IntelliJ-hands-on\CompletableFuture\target" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\upgrade-skills\completable-future-concept\CompletableFuture\src\main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.completable.future.sceneriobased.handson.combiningFuture.main" />
+      <recent name="com.completable.future.sceneriobased.handson.service" />
+      <recent name="com.completable.future.sceneriobased.handson" />
+      <recent name="com.project.completable.future.handson.beans" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.RunAsyncMainTest">
-    <configuration name="RunAsyncMainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.completable.future.handson.test.RunAsyncMainTest" />
+  <component name="RunManager" selected="Application.CombingMoreThanTwoInDependentFutureWithOutWait">
+    <configuration name="CombingMoreThanTwoInDependentFuture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.completable.future.sceneriobased.handson.combiningFuture.main.CombingMoreThanTwoInDependentFuture" />
       <module name="CompletableFuture" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.completable.future.handson.test.*" />
+          <option name="PATTERN" value="com.completable.future.sceneriobased.handson.combiningFuture.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +84,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SupplySyncTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.completable.future.handson.test.SupplySyncTest" />
+    <configuration name="CombingMoreThanTwoInDependentFutureWithOutWait" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.completable.future.sceneriobased.handson.combiningFuture.main.CombingMoreThanTwoInDependentFutureWithOutWait" />
       <module name="CompletableFuture" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.completable.future.handson.test.*" />
+          <option name="PATTERN" value="com.completable.future.sceneriobased.handson.combiningFuture.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CombingTwoDependentFuture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.completable.future.sceneriobased.handson.combiningFuture.main.CombingTwoDependentFuture" />
+      <module name="CompletableFuture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.completable.future.sceneriobased.handson.combiningFuture.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CombingTwoInDependentFuture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.completable.future.sceneriobased.handson.combiningFuture.main.CombingTwoInDependentFuture" />
+      <module name="CompletableFuture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.completable.future.sceneriobased.handson.combiningFuture.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SendOrPrintEmailsOfAllNewJoinerWhosTrainingIsPending" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.completable.future.handson.main.SendOrPrintEmailsOfAllNewJoinerWhosTrainingIsPending" />
+      <module name="CompletableFuture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.completable.future.handson.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,8 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RunAsyncMainTest" />
-        <item itemvalue="Application.SupplySyncTest" />
+        <item itemvalue="Application.CombingMoreThanTwoInDependentFutureWithOutWait" />
+        <item itemvalue="Application.CombingMoreThanTwoInDependentFuture" />
+        <item itemvalue="Application.CombingTwoInDependentFuture" />
+        <item itemvalue="Application.CombingTwoDependentFuture" />
+        <item itemvalue="Application.SendOrPrintEmailsOfAllNewJoinerWhosTrainingIsPending" />
       </list>
     </recent_temporary>
   </component>
